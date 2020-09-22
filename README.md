@@ -3,8 +3,13 @@
 ### drie hekjes
 #### vier hekjes
 ##### vijf hekjes
+
 *italics*
+
 _also italics_
+
 **bold**
+
 __also bold__
+
 ~~strikethrough~~
